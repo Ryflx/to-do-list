@@ -16,7 +16,7 @@ export default function App() {
       ]
     })
 
-    setNewItem("[]")
+    setNewItem("")
   }
 
   function toggleTodo(id, completed) {
